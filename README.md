@@ -5,7 +5,7 @@
 
 **Name** : Ramona Braun
 
-> *King mongkut's institute of technology ladgrabang*
+>[ *King mongkut's institute of technology ladgrabang*]( https://www.kmitl.ac.th)
 ```
-print("hello world")
+print("hello Ladkrabang")
 ```
